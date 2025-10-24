@@ -1,6 +1,6 @@
 # RAG 학습 및 공유용 자료
-이 자료는 RAG(Retrieval-Augmented Generation) 개념을 직접 학습하고,  
-동료 개발자나 스터디원에게 공유하기 위해 개인이 정리한 실습 예제입니다.
+이 자료는 RAG(Retrieval-Augmented Generation) 개념을 학습하고,  
+동료 개발자나 스터디원에게 공유하기 위해 정리한 실습 예제입니다.
 
 LangChain 프레임워크와 Upstage LLM, Pinecone Vector Database를 활용하여 문서 기반 AI 질문/답변 체인을 구현합니다.
 
